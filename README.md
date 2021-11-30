@@ -1,5 +1,6 @@
 # tk darknet
-this is a fork of alexey darknet
+this is a fork of https://git.hipert.unimore.it/fgatti/darknet
+
 tk version of yolos are in *mycfg/* folder
 
 ### Compile
